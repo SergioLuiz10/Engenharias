@@ -1,7 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Dados das lojas e vendas
 lojas = ['Neoenergia', 'Kempetro Engenharia', 'Lotus LTDA', 'Petro']
 
 vendas_2022 = {
